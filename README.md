@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Md. Mushfiqur Rahaman<br><br>🚀 Product Analyst | Technical Product & Business Analyst<br>📍 Dhaka, Bangladesh<br><br>💡 What I Do<br><br>📊 Product Strategy & Roadmapping<br><br>🧩 Technical Requirement Analysis<br><br>⚙️ SaaS & IoT System Design<br><br>🌐 Scalable Web Application Development<br><br>📈 Agile & Data-Driven Product Optimization
+👋 Hi, I'm Md. Mushfiqur Rahaman<br><br>🚀 Product Manager | Technical Product & Business Analyst<br>📍 Dhaka, Bangladesh<br><br>💡 What I Do<br><br>📊 Product Strategy & Roadmapping<br><br>🧩 Technical Requirement Analysis<br><br>⚙️ SaaS & IoT System Design<br><br>🌐 Scalable Web Application Development<br><br>📈 Agile & Data-Driven Product Optimization
 
 
 ## 🌐 Socials:
